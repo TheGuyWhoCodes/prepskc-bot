@@ -21,3 +21,5 @@ Drop all of the javascript files in tampermonkey and enjoy
  autovote.js is the main file that votes. It clicks all the buttons automatically and makes a random email to put into the email portion of the bot
  
  Also a fun portion of the bot, this bot still works after the voting "ends". When they "end" the voting, they actually don't remove any of the form code, or make sure the server doesn't allow any extra votes. They actually just set the display attribute to hidden, so you can actually post data
+
+![ayy](https://i.imgur.com/xxP5MEV.png, "What happens")
